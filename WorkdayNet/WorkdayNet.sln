@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkdayNet", "WorkdayNet\WorkdayNet.csproj", "{4B412348-6309-4C76-A8A5-4B5411408787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B412348-6309-4C76-A8A5-4B5411408787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B412348-6309-4C76-A8A5-4B5411408787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B412348-6309-4C76-A8A5-4B5411408787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B412348-6309-4C76-A8A5-4B5411408787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C7E7493-B705-4F42-BEB0-DD2F1F303014}
+	EndGlobalSection
+EndGlobal
